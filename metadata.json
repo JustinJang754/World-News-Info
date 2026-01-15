@@ -1,0 +1,7 @@
+{
+  "name": "World News Info",
+  "description": "A sophisticated real-time economic news aggregator and analyzer powered by Gemini AI with Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
